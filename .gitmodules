@@ -1,0 +1,9 @@
+[submodule "Wemos_Node"]
+	path = Wemos_Node
+	url = https://github.com/galagaking/Wemos_Node.git
+[submodule "WeMos-Lora"]
+	path = WeMos-Lora
+	url = https://github.com/hallard/WeMos-Lora.git
+[submodule "arduino-lmic"]
+	path = arduino-lmic
+	url = https://github.com/ch2i/arduino-lmic

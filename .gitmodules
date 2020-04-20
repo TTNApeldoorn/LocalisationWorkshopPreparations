@@ -7,3 +7,9 @@
 [submodule "arduino-lmic"]
 	path = arduino-lmic
 	url = https://github.com/ch2i/arduino-lmic
+[submodule "WorkshopLocationWiFiLoRaWAN2020"]
+	path = WorkshopLocationWiFiLoRaWAN2020
+	url = https://github.com/turtlecrazy/WorkshopLocationWiFiLoRaWAN2020.git
+[submodule "workshop-info.wiki"]
+	path = workshop-info.wiki
+	url = https://github.com/turtlecrazy/workshop-info.wiki.git
